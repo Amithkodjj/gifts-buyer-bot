@@ -2,8 +2,8 @@ TEXTS = {
     "user_link": "<a href='https://t.me/{username}'>{name}</a>",
 
     # welcome texts
-    "welcome": "Hi, please join <a href='https://t.me/AutoBuyerGiftsViki'>our channel</a>, Choose an option:",
-    "welcome_receiver": "Hi, please join <a href='https://t.me/AutoBuyerGiftsViki'>our channel</a>, You are registered as a receiver.",
+    "welcome": "Hi, please join <a href='https://t.me/GiftSniperV2'>our channel</a>, Choose an option:",
+    "welcome_receiver": "Hi, please join <a href='https://t.me/GiftSniperV2'>our channel</a>, You are registered as a receiver.",
 
 
     # charging stars texts
