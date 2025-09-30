@@ -6,7 +6,7 @@ load_dotenv()
 
 class Config:
     API_ID = os.getenv("API_ID",29584145)
-    API_HASH = os.getenv("API_HASH",7e9cdc05b51b6dbfea901486528c895d)
+    API_HASH = os.getenv("API_HASH","7e9cdc05b51b6dbfea901486528c895d")
     BOT_TOKEN = os.getenv("BOT_TOKEN")
     ADMIN_ID = os.getenv("ADMIN_ID", 0)
     CHECK_GIFT_INTERVAL = int(os.getenv("CHECK_GIFT_INTERVAL", 30))
